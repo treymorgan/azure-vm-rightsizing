@@ -23,6 +23,7 @@ This tool helps organizations optimize their Azure cloud costs by:
 ## Prerequisites
 
 - Python 3.6+
+- Azure CLI installed (required for authentication)
 - Azure subscription with VM resources
 - Permissions to read Azure Monitor metrics
 
